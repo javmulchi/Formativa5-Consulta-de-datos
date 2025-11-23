@@ -66,6 +66,8 @@ Los clientes que califican como "del año pasado" cambien dependiendo de cuándo
 Conclusión: El código SQL es correcto lógicamente y cumple con las reglas de negocio, adaptándose dinámicamente al estado actual de la base de datos.
 
 
+Fila 392 y 400 se inserta duplicado "Contador":
+
 <img width="775" height="463" alt="Captura de pantalla 2025-11-23 182339" src="https://github.com/user-attachments/assets/860140fd-2379-4355-adfb-6c62e407c696" />
 
 
